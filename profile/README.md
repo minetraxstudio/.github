@@ -1,3 +1,4 @@
+aliases: true
 ---
 
 # **🎮 Minetrax Studios™**  
