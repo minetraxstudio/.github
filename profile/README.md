@@ -3,7 +3,7 @@
 # **🎮 Minetrax Studios™**  
 *Crafting Worlds, Building Communities*  
 
-**🌐 Website:** [minetrax.studios](https://minetrax.studios)  
+**🌐 Website:** __https://minetrax.studios__
 **📍 Based In:** India  
 **⚡ Trademark:** Minetrax Studios™  
 
